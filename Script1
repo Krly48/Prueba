@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML5, CSS3 and JavaScript demo</title>
+</head>
+<body>
+<!-- Start your code here -->
+<header>Header</header>
+<section>
+<article>
+<p>
+Esta es una sección importante del contenido de la página.
+Tal vez una publicación en blog.
+</p>
+</aside>
+</p>
+Este es un aparte de la primera publicación en blog.
+</p>
+</aside>
+</article>
+<article>
+<p>
+Esta es una sección importante del contenido de la página.
+Tal vez una publicación en blog.
+</p>
+</article>
+</section>
+<footer>Footer</footer>
+
+<!-- End your code here -->
+</body>
+</html>
