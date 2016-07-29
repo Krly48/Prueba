@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML5, CSS3 and JavaScript demo</title>
+  <style type="text/css">
+body{
+	background:#6AE2FF;
+}
+</style>
+</head>
+<body>
+  
+<!-- Start your code here -->
+<p>Ejemplo de etiqueta <mark>progress</mark></p>
+ <progress  max="100">70 %</progress>
+ <p> Ejemplo de etiqueta <mark>audio</mark></p>
+ <audio width="300" height="32" src="http://users.du.se/~dbe/mp3/Star%20Wars%20Soundtrack/Star%20Wars%20I%20-%20Anakin's%20Theme.mp3" controls="controls" autoplay="autoplay" preload="">
+ 
+</audio>
+ 
+  <p>Ejemplo de etiqueta <mark>video</mark></p>
+  <video src="http://aprendamoselectricidadyembobinados.com/videos/Embobinado_motor_Trifasico_1era_%20parte.mp4" controls></video>
+  
+  <p>Ejemplo de etiqueta <mark>figure</mark> </p>
+  <figure>
+  <img src="http://medicamentos.gob.sv/inventario2/inventario2/imagenes/usuario.jpg" alt="texto para ayudas visuales">
+</figure> 
+
+  <p>Ejemplo de etiqueta <mark> Meter </mark> </p>
+     <meter min="0" max="120" value="40">
+            <span>1/3</span>
+    </meter>
+  
+<!-- End your code here -->
+</body>
+</html>
